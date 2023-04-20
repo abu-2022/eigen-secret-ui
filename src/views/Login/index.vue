@@ -12,7 +12,7 @@
 
 <script>
 
-import { SecretSDK } from "@eigen-secret/sdk/dist/index";
+import { SecretSDK } from "@eigen-secret/sdk";
 
 export default {
   name: 'login-page',
